@@ -1,2 +1,2 @@
 hello all 
-welcome git 
+welcome git.
